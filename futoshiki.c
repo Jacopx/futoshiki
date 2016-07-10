@@ -50,6 +50,7 @@ int disp_ripet(rules **tb, int dim, int pos)
     return 0;
 }
 
+//controll function
 int controlla (rules **tb, int dim, int pos)
 {
     int r, c, occ[dim], i, j;
