@@ -9,7 +9,7 @@
 void stampa_schema (rules **tb, int dim)
 {
     int i, j;
-    printf("Soluzione Generata:\n");
+    printf("Generated Solution:\n");
     for(i=0; i<dim; i++)  {
         for(j=0; j<dim; j++) {
             printf("%d ", tb[i][j].V);
