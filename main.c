@@ -1,10 +1,5 @@
 //
-//  main.c
-//  eser11_1
-//
-//  Created by Jacopo Nasi on 15/12/15.
-//  Copyright © 2015 Jacopo Nasi. All rights reserved.
-//
+//  main.c - Futoshiki Solver by Jacopx
 
 #include <stdio.h>
 #include <stdlib.h>

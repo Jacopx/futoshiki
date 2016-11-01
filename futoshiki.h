@@ -1,10 +1,5 @@
 //
-//  futoshiki.h
-//  eser11_1
-//
-//  Created by Jacopo Nasi on 15/12/15.
-//  Copyright © 2015 Jacopo Nasi. All rights reserved.
-//
+//  futoshiki.h - Futoshiki Solver by Jacopx
 
 #ifndef futoshiki_h
 #define futoshiki_h
